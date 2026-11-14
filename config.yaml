@@ -1,0 +1,29 @@
+# Everything you edit lives here. The script does the rest.
+
+username: Priyanshu-coder-AI-ML        # your GitHub username
+name: Priyanshu Patel                        # shown in the heading
+tagline: >-
+  B.Tech AIML student building practical machine learning and
+  embedded projects.
+
+currently:
+  - Learning FastAPI and MLOps
+  - Building an on-device AI project with friends
+
+# Skill badges: name, hex color (no #), optional simple-icons logo name
+skills:
+  - { name: Python, color: 3776AB, logo: python }
+  - { name: Machine Learning, color: FF6F00, logo: scikitlearn }
+  - { name: Arduino, color: 00979D, logo: arduino }
+  - { name: HTML5, color: E34F26, logo: html5 }
+  - { name: CSS3, color: 1572B6, logo: css3 }
+  - { name: Git, color: F05032, logo: git }
+
+links:
+  - { label: GitHub, url: "https://github.com/Priyanshu-coder-AI-ML" }
+  # - { label: LinkedIn, url: "https://www.linkedin.com/in/your-handle" }
+
+# Tuning
+top_repos: 6
+top_languages: 6
+exclude_repos: []                      # repo names to hide, e.g. ["old-test"]
